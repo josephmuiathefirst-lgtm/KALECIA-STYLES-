@@ -1,0 +1,8 @@
+kalecia-styles/
+├── index.html          (Home)
+├── categories.html     (Categories)
+├── cart.html           (Cart)
+├── wishlist.html       (Wishlist)
+├── account.html        (Account)
+├── style.css           (Same CSS for all pages)
+├── script.js           (Optional JS)
